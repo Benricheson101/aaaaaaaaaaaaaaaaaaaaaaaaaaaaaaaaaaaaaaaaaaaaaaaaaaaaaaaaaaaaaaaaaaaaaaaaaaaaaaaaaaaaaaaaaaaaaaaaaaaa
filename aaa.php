@@ -1,4 +1,6 @@
 <?php
 $aaa = "aaa";   
-echo $aaa;
+while ($aaa == $aaa) {
+  echo $aaa;
+}
 ?>
