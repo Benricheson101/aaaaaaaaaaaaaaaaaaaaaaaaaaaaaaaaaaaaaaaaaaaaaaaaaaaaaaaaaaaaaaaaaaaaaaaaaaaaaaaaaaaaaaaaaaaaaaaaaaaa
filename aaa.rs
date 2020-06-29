@@ -1,3 +1,5 @@
 fn main () {
-    print!("a");
+    loop {
+        print!("a");
+    }
 }
