@@ -1,2 +1,4 @@
-echo "aaaaaaaaaaaaaaaaaaaa"
-pause
+@echo off
+:aaa
+SET /P X="a"<NUL
+goto aaa
