@@ -1,4 +1,0 @@
-while true
-do
-	echo -n "a"
-done
