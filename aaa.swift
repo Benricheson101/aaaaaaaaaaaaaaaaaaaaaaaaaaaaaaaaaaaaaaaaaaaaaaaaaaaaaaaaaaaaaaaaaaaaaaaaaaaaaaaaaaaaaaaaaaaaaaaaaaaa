@@ -1,6 +1,5 @@
-import Foundation //import this fucking important module
+import Foundation
 
-while(true) { //do shit to make ur cpu on fire
-print("a", terminator:"") //print shit in console
+while(true) {
+  print("a", terminator:"")
 }
-// xd.
