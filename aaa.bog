@@ -1,0 +1,4 @@
+const {print} = import("std.io")
+
+while (true)
+  print("a")
