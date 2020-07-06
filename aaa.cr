@@ -1,3 +1,3 @@
 while true
-  puts "a"
+  print "a"
 end

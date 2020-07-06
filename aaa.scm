@@ -5,4 +5,4 @@
       (loop (+ ,iterator 1) (begin ,@body))))))
 
 (for x 1 10000000000000000000000000000
-  (print "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"))
+  (print "a"))
