@@ -1,2 +1,1 @@
-while True:
-    print('a', end = '')
+ [print('a', end='') for _ in iter(int, 1)]
