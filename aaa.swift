@@ -1,5 +1,5 @@
 import Foundation
 
-while(true) {
+while true {
   print("a", terminator:"")
 }
