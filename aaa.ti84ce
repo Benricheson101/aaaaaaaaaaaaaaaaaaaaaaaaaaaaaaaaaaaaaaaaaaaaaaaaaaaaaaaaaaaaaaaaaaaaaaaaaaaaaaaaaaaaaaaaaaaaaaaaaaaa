@@ -1,0 +1,12 @@
+:ClrHome
+:For(Y,1,9)
+:Disp ""
+:For(X,1,26)
+:Output(Y,X,"A
+:End:End
+:While 1
+:For(X,1,26)
+:Output(10,X,"A
+:End
+:Disp ""
+:End
