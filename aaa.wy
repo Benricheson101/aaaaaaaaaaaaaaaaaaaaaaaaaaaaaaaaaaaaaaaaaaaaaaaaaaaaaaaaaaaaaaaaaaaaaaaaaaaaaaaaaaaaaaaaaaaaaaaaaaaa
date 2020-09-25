@@ -1,0 +1,39 @@
+注曰 「「
+	Run aaa.wy instructions
+	> npm install -g @wenyan/cli
+	> npm i -g @wenyan/wyg
+	> wyg i 腳本秘術
+	> wyg i 刻漏
+	> wenyan aaa.wy
+」」
+
+注曰「「Import libraries」」
+吾嘗觀「「腳本秘術」」之書。
+吾嘗觀「「刻漏」」之書。方悟「俄而不絕」之義。
+
+注曰「「Create clear() function」」
+爪哇國有腳本
+function clear() {
+	console.clear();
+}
+其文如是矣。
+
+注曰「「Create 寫字(次數) function」」
+吾有一術。名之曰「寫字」。
+欲行是術。必先得一數。曰「次數」。乃行是術曰。
+	施「clear」。
+	吾有一言。名之曰「寫」。
+	為是「次數」遍。
+		加「寫」以「「a」」。昔之「寫」者。今其是也。
+	乃得「寫」矣。
+是謂「寫字」之術也。
+
+注曰「「Create 永遠() function」」
+有數零。名之曰「次數」。
+吾有一術。名之曰「永遠」。乃行是術曰。
+	加一於「次數」者。昔之「次數」者。今其是矣。
+	施「寫字」於「次數」。書之。
+是謂「永遠」之術也。
+
+注曰「「Run 永遠() forever」」
+俄而即「永遠」不絕。

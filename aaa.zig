@@ -1,6 +1,5 @@
-const std = @import("std");
+const debug = @import("std").debug;
 
-pub fn main() !void {
-    const stdout = std.io.getStdOut().outStream();
-    while (true) try stdout.print("a", .{});
+pub fn main() void {
+    while (true) debug.warn("a", .{});
 }

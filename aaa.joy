@@ -1,0 +1,3 @@
+DEFINE loop == [true []] dip while.
+ 
+["a" putchars] loop.

@@ -1,0 +1,3 @@
+DO
+  printf($"a"l$)
+OD
