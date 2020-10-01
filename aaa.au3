@@ -1,0 +1,2 @@
+While ConsoleWrite("a")
+WEnd
