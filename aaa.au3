@@ -1,3 +1,2 @@
-While True
-ConsoleWrite("a")
+While ConsoleWrite("a")
 WEnd
