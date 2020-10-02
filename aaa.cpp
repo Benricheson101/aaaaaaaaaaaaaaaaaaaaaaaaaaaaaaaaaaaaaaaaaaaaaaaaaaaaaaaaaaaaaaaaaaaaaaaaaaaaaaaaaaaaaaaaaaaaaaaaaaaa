@@ -1,5 +1,6 @@
 // Uses C++17 features.
 // g++ -std=c++17 -O3 aaa.cpp -o aaa
+//C++
 
 #include <cstdio>   // BUFSIZ
 #include <unistd.h> // POSIX write()
