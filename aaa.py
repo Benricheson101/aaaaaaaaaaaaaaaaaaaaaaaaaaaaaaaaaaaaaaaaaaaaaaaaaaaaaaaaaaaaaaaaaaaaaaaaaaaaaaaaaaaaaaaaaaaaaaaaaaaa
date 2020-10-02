@@ -1,2 +1,1 @@
-while True:
-    print('a', end = '')
+import itertools;[print("a",end="") for _ in itertools.cycle([None])]
