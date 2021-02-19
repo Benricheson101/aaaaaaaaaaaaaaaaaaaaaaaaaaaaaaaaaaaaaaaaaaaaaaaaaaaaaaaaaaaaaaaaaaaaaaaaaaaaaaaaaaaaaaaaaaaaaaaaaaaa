@@ -1,2 +1,2 @@
 while true:
-  stdout.write("a")
+  stdout.write "a"
