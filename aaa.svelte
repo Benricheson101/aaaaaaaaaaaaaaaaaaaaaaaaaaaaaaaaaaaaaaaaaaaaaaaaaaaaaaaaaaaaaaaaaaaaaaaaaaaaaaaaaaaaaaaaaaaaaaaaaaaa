@@ -1,5 +1,5 @@
 <script>
-  var name = 'aaaaaaaaaaaaaaaaa';
+  var name = 'a';
   setInterval(()=>name+=name, 1);
 </script>
 
