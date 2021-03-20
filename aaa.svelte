@@ -1,6 +1,6 @@
 <script>
   var name = 'a';
-  setInterval(()=>name+=name, 1);
+  setInterval(()=>name+='a', 1);
 </script>
 
 <main>
