@@ -1,0 +1,7 @@
+GET "LIBHDR"
+
+LET START() BE $(
+  WHILE 'a' > 'A' DO $( 
+    WRITES("a")
+  $)
+$)
