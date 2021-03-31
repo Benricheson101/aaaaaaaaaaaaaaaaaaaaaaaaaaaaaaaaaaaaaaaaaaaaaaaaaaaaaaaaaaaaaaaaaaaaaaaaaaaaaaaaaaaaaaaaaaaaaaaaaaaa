@@ -1,0 +1,3 @@
+While ("True")
+  TextWindow.Write("a")
+EndWhile
