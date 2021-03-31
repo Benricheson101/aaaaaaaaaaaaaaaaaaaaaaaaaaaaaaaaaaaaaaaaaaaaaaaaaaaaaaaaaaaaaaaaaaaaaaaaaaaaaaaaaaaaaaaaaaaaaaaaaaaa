@@ -1,15 +1,4 @@
-using System;
-
-namespace AAAAAAAAAAAAAAA
+while (true)
 {
-  class AAAAAAA
-  {
-    static void Main(string[] args)
-    {
-      while (true)
-      {
-        Console.Write("a");
-      }
-    }
-  }
+  System.Console.Write("a");
 }
