@@ -1,0 +1,9 @@
+public class aaa {
+  public static void main(String[] args) {
+    a();
+  }
+  private static void a() {
+    System.out.print("a");
+    a();
+  }
+}
