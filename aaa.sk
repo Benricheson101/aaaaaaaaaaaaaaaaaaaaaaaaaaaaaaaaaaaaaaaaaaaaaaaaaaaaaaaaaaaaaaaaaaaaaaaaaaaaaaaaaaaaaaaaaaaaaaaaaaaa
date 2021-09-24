@@ -1,0 +1,3 @@
+on skript load:
+	while true:
+		send "a" to console
