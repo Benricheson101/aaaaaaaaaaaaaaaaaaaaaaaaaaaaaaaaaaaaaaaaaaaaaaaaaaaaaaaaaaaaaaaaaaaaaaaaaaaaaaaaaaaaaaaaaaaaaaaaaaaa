@@ -1,1 +1,1 @@
-while 1: print('a', end='')
+while 'a': print('a', end='')
