@@ -1,0 +1,14 @@
+####################
+# Flux Script
+# If you are using Flux Desktop Runtime, comment the 'def console' function and uncomment the import line.
+# You can also rename the file to use the Flux Desktop Runtime file extension 'flx' instead of 'fls'
+####################
+def console(concom, conput):
+    if concom == "write":
+        print(conput)
+####################
+# import stx.py
+####################
+
+while True:
+  console("write", "a")
