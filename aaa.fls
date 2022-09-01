@@ -7,7 +7,7 @@ def console(concom, conput):
     if concom == "write":
         print(conput)
 ####################
-# import stx.py
+# from Flux import stx.py
 ####################
 
 while True:
