@@ -2,7 +2,7 @@ package ExplorerTest api;
 
 fn Main() -> i32 {
   while (true) {
-    Print("A");
+    Print("a");
   }
   return 0;
 }
