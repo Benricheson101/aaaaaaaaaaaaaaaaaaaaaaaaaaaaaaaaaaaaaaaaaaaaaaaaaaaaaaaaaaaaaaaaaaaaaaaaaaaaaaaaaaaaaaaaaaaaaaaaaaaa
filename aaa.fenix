@@ -1,0 +1,9 @@
+import sys.term.Terminal;
+
+fnc i8 main() {
+    while (true) {
+        Terminal.print("a");
+    }
+
+    ret 0;
+}
