@@ -1,0 +1,4 @@
+import System;
+
+while True:
+  System.Console.Write("a")
