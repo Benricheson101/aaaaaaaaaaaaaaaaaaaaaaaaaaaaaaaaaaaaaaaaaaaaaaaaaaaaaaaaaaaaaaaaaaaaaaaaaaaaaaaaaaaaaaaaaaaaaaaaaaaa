@@ -1,0 +1,5 @@
+<UIRoot>
+    <While (true)>
+        a
+    </While>
+</UIRoot>
