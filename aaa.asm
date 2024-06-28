@@ -1,19 +1,11 @@
-; nasm -f elf64 -o aaa.o aaa.asm && ld -o aaa aaa.o && ./aaa
+; "Yeah I write code"
+    db 0xB8
+    dd 0q1
+    dd 0xC289 << (0x2 << 0q2 << 0b1) | 0x4288C789
+    dw 0x348D & -1
+    db 0x5 | 0b00100000 ^ ~0xFF
+    dd because_im
+    dd -9.76233889780912372017480E+36
 
-SECTION .DATA:
-  A: DB 'a'
-  A_LEN: EQU $ - A
-
-SECTION .TEXT:
-  GLOBAL _start
-
-  PRINT_A:
-    MOV RAX, 1
-    MOV RDI, 1
-    MOV RSI, A
-    MOV RDX, A_LEN
-    SYSCALL
-    JMP PRINT_A
-
-  _start:
-    JMP PRINT_A
+because_im:
+    db ~0x9E

@@ -1,9 +1,7 @@
-#include <stdio.h>
 #include "aaa.h"
 
-a aa aaa aaaa aaaaa
-  aaaaaa aaa aaaaaaa aaaa aaaaa
-    aaaaaaaa aaa aaaaaaaaa aaaaaaaaaa aaaaaaaaaaa aaaa aaaaaaaaaaaa
-  aaaaaaaaaaaaaaa
-  aaaaaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaa
-aaaaaaaaaaaaaaa
+a aa aaa aaaa
+aaaaaaaa
+aaaaa aaa aaaaaa aaaa
+    aaaaaaa aaa aaaaaaaaaa aaaa aaaaaaaaaaa
+aaaaaaaaa
